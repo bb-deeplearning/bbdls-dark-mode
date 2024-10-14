@@ -1,0 +1,21 @@
+{
+  "name": "bbdls-dark-mode",
+  "displayName": "bbdls-dark-mode",
+  "description": "bbdls' proprietary dark mode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bbdls-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bbdls-dark-color-theme.json"
+      }
+    ]
+  }
+}
