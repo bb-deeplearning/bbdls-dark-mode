@@ -1,5 +1,3 @@
-# Welcome to your VS Code Extension
-
 ## What's in the folder
 
 * This folder contains all of the files necessary for your color theme extension.
@@ -15,10 +13,6 @@
 ## Make changes
 
 * Changes to the theme file are automatically applied to the Extension Development Host window.
-
-## Adopt your theme to Visual Studio Code
-
-* The token colorization is done based on standard TextMate themes. Colors are matched against one or more scopes.
 
 To learn more about scopes and how they're used, check out the [color theme](https://code.visualstudio.com/api/extension-guides/color-theme) documentation.
 
