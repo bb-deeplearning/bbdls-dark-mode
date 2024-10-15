@@ -51,7 +51,20 @@ Here's a breakdown [**_FEYNCHAT_**](https://feyn.chat) gave about its color choi
 
 This color scheme balances visual comfort with code comprehension, optimized for long coding sessions.
 
-![Color Palette Overview](https://via.placeholder.com/800x100/1E1F2B/000000?text=bbdls-dark+Theme+Color+Palette)
+
+## Theme Samples
+
+Here are some examples of how the bbdls-dark theme looks with different programming languages:
+
+### Go
+![Go Sample](images/go-sample.png)
+
+### React
+![React Sample](images/react-sample.png)
+
+### Python
+![Python Sample](images/python-sample.png)
+
 
 ## Development Process
 
