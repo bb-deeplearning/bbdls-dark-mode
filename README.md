@@ -12,16 +12,26 @@ A color scheme born from [**_FEYNCHAT's_**](https://feyn.chat) mind, which decid
 
 ## Color Scheme Analysis
 
-Here's a breakdown [**_FEYNCHAT_**](https://feyn.chat) gave about it's color choices, designed to enhance readability and reduce eye strain:
+Here's a breakdown [**_FEYNCHAT_**](https://feyn.chat) gave about its color choices, designed to enhance readability and reduce eye strain:
 
 1. Dark Background (#1E1F2B): Easier on the eyes for extended coding sessions, reducing overall screen glare.
+   ![Dark Background](https://via.placeholder.com/50/1E1F2B/000000?text=+)
+
 2. High Contrast: Light foreground (#E0E0E0) against the dark background for improved readability.
+   ![Light Foreground](https://via.placeholder.com/50/E0E0E0/000000?text=+)
+
 3. Color Differentiation:
    - Keywords: #F92672 (bright pink) for easy identification of language constructs
+     ![Keywords](https://via.placeholder.com/50/F92672/000000?text=+)
    - Strings: #9ECE6A (soft green) to clearly distinguish text content
+     ![Strings](https://via.placeholder.com/50/9ECE6A/000000?text=+)
    - Functions: #66D9EF (bright blue) for quick recognition of method calls
+     ![Functions](https://via.placeholder.com/50/66D9EF/000000?text=+)
    - Variables: #61AFEF (lighter blue) to differentiate from functions while maintaining a cohesive look
+     ![Variables](https://via.placeholder.com/50/61AFEF/000000?text=+)
    - Constants: #AE81FF (purple) to highlight immutable values
+     ![Constants](https://via.placeholder.com/50/AE81FF/000000?text=+)
+
 4. Muted Colors: Secondary elements use subdued colors to avoid visual clutter.
 5. Selective Use of Italics: Enhances visual hierarchy for certain code elements.
 6. Harmonious Color Palette: Carefully selected to be visually pleasing and reduce eye fatigue.
@@ -29,6 +39,8 @@ Here's a breakdown [**_FEYNCHAT_**](https://feyn.chat) gave about it's color cho
 8. Subdued Comments: Muted gray to de-emphasize while maintaining readability.
 
 This color scheme balances visual comfort with code comprehension, optimized for long coding sessions.
+
+![Color Palette Overview](https://via.placeholder.com/800x100/1E1F2B/000000?text=bbdls-dark+Theme+Color+Palette)
 
 ## Development Process
 
