@@ -92,3 +92,7 @@ Created by chatting with [**_FEYNCHAT_**](https://feyn.chat), demonstrating weir
 This theme is primarily intended for internal use at [bbdeeplearning.systems](https://bbdeeplearning.systems) and for the dispplay of code in [**_FEYNCHAT's_**](https://feyn.chat) responses in dark mode.
 
 For more information on building VS Code themes, see the [color theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme).
+
+## License
+
+This theme is licensed under the MIT License. See the [LICENSE](LICENSE.MD) file for details.
